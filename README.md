@@ -22,7 +22,6 @@ MetaHuman AI is an advanced **AI-driven digital human project**, featuring **Hen
 ![report_pic2](https://github.com/user-attachments/assets/e45c39d5-56a0-4a9b-aa26-091183c76f91)
 (https://github.com/user-attachments/assets/994c494e-948b-4561-82c3-6939bb92b87b)
 ![pic5](https://github.com/user-attachments/assets/94bb5006-ac5e-4a2f-a34d-137a9e192748)
-![pic6](https://github.com/user-attachments/assets/5a5f7400-ea40-481b-b9f1-3651c965edc8)
 ![pic6](https://github.com/user-attachments/assets/dfb8879c-1d67-4f3d-b550-b0caf039d771)
 ![report_pic1](https://github.com/user-attachments/assets/cd63890f-1bc7-452a-b15f-14b47bff44b8)
 ![reporrt_pic3](https://github.com/user-attachments/assets/36d260c9-675d-4cc8-93e7-eb36784aaa7c)
